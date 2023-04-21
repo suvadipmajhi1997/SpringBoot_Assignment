@@ -1,9 +1,9 @@
-User management system
-Framework Used
+ # User management system
+## Framework Used
 SpringBoot
-Language Used
+## Language Used
 Java
-Data flow
+## Data flow
 In this project, we have four layers-
 
 Controller - The controller layer handles the HTTP requests, translates the JSON parameter to object, and authenticates the request and transfer it to the business (service) layer. In short, it consists of views i.e., frontend part.
@@ -13,7 +13,7 @@ DataBase Class - Here the class user is defined and the whatever a user class wi
 Data Structure used in my project
 In our project ArrayList and the methods involved with ArrayList, like add method for posting new User, remove method for deleting a user, combination of add and remove method for update user and linear search function for searching a user in Java by specific userId.
 
-Project Summary
+## Project Summary
 This project basically maintains the upcoming user information which includes -
 
 UserId
